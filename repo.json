@@ -1,100 +1,46 @@
 {
-  "name": "أنمي ومانجا (عربي + إنجليزي)",
+  "name": "Manga - مانجا (عربي + English)",
   "plugins": [
-    {
-      "id": "olympustaff",
-      "name": "Team-X",
-      "version": "1.3.0",
-      "lang": "ar",
-      "nsfw": false,
-      "icon": "https://olympustaff.com/images/TeamX.png",
-      "entry": "olympustaff.plugin.js"
-    },
     {
       "id": "3asq",
       "name": "مانجا العاشق (3asq)",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://3asq.online/wp-content/uploads/2021/06/cropped-ICON-270x270.png",
       "entry": "3asq.plugin.js"
     },
     {
+      "id": "olympustaff",
+      "name": "Team-X (عربي)",
+      "version": "2.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://olympustaff.com/images/TeamX.png",
+      "entry": "olympustaff.plugin.js"
+    },
+    {
       "id": "azorafly",
-      "name": "AzoraFly",
-      "version": "2.2.0",
+      "name": "AzoraFly (عربي)",
+      "version": "2.0.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://azorafly.com/favicon.ico",
       "entry": "azorafly.plugin.js"
     },
     {
-      "id": "mangalek",
-      "name": "مانجا ليك",
-      "version": "1.3.0",
-      "lang": "ar",
-      "nsfw": false,
-      "icon": "https://mangalik.net/favicon.ico",
-      "entry": "mangalek.plugin.js"
-    },
-    {
-      "id": "mangalink",
-      "name": "مانجا لينك",
-      "version": "1.3.0",
-      "lang": "ar",
-      "nsfw": false,
-      "icon": "https://link-manga.net/favicon.ico",
-      "entry": "mangalink.plugin.js"
-    },
-    {
       "id": "manga-online",
-      "name": "مانجا اون لاين",
-      "version": "1.3.0",
+      "name": "مانجا اون لاين (عربي)",
+      "version": "2.0.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://onma.me/favicon.ico",
       "entry": "manga-online.plugin.js"
     },
     {
-      "id": "manga-starz",
-      "name": "Manga Starz (عربي)",
-      "version": "1.3.0",
-      "lang": "ar",
-      "nsfw": false,
-      "icon": "https://manga-starz.net/favicon.ico",
-      "entry": "manga-starz.plugin.js"
-    },
-    {
-      "id": "arcomixverse",
-      "name": "ArComixVerse (عربي)",
-      "version": "1.3.0",
-      "lang": "ar",
-      "nsfw": false,
-      "icon": "https://arcomixverse.blogspot.com/favicon.ico",
-      "entry": "arcomixverse.plugin.js"
-    },
-    {
-      "id": "comick-fanmade",
-      "name": "ComicK Fanmade (English)",
-      "version": "1.3.0",
-      "lang": "en",
-      "nsfw": false,
-      "icon": "https://comickfan.com/favicon.ico",
-      "entry": "comick-en.plugin.js"
-    },
-    {
-      "id": "comick-unoriginal",
-      "name": "ComicK Unoriginal (English)",
-      "version": "1.3.0",
-      "lang": "en",
-      "nsfw": false,
-      "icon": "https://comick.live/favicon.ico",
-      "entry": "comick-unoriginal.plugin.js"
-    },
-    {
       "id": "mangapill",
       "name": "MangaPill (English)",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "lang": "en",
       "nsfw": false,
       "icon": "https://mangapill.com/favicon.ico",
@@ -103,20 +49,11 @@
     {
       "id": "manganato",
       "name": "Manganato (English)",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "lang": "en",
       "nsfw": false,
       "icon": "https://www.manganato.gg/favicon.ico",
       "entry": "manganato.plugin.js"
-    },
-    {
-      "id": "webtoons",
-      "name": "Webtoons.com (English)",
-      "version": "1.3.0",
-      "lang": "en",
-      "nsfw": false,
-      "icon": "https://www.webtoons.com/favicon.ico",
-      "entry": "webtoons-en.plugin.js"
     }
   ]
 }
