@@ -1,85 +1,86 @@
 {
   "name": "Manga - مانجا (عربي + English)",
+  "version": "3.1.0",
   "plugins": [
     {
       "id": "3asq",
       "name": "مانجا العاشق (3asq)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://3asq.online/wp-content/uploads/2021/06/cropped-ICON-270x270.png",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/3asq.png",
       "entry": "3asq.plugin.js"
     },
     {
       "id": "olympustaff",
       "name": "Team-X (عربي)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://olympustaff.com/images/TeamX.png",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/teamx.png",
       "entry": "olympustaff.plugin.js"
     },
     {
       "id": "azorafly",
       "name": "AzoraFly (عربي)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://azorafly.com/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/azorafly.png",
       "entry": "azorafly.plugin.js"
     },
     {
       "id": "manga-online",
       "name": "مانجا اون لاين (عربي)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://onma.me/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/manga-online.png",
       "entry": "manga-online.plugin.js"
     },
     {
       "id": "mangatuk-ar",
       "name": "مانجاتك - MangaTuk (عربي)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://mangatuk.com/site-icons/17ca9e84/icon-192.png",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/mangatuk.png",
       "entry": "mangatuk.plugin.js"
     },
     {
       "id": "mangadex-ar",
       "name": "مانجا دكس - MangaDex (عربي)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://mangadex.org/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/mangadex.png",
       "entry": "mangadex-ar.plugin.js"
     },
     {
       "id": "mangapill",
       "name": "MangaPill (English)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "en",
       "nsfw": false,
-      "icon": "https://mangapill.com/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/mangapill.png",
       "entry": "mangapill-en.plugin.js"
     },
     {
       "id": "manganato",
       "name": "Manganato (English)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "en",
       "nsfw": false,
-      "icon": "https://www.manganato.gg/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/manganato.png",
       "entry": "manganato.plugin.js"
     },
     {
       "id": "comick-manga",
       "name": "ComicK Manga (English)",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "lang": "en",
       "nsfw": false,
-      "icon": "https://comick.live/favicon.ico",
+      "icon": "https://raw.githubusercontent.com/moahmmed597/Manga-for-harbor/main/icons/comick.png",
       "entry": "comick-manga.plugin.js"
     }
   ]
