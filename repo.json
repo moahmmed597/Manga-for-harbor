@@ -4,7 +4,7 @@
     {
       "id": "3asq",
       "name": "مانجا العاشق (3asq)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://3asq.online/wp-content/uploads/2021/06/cropped-ICON-270x270.png",
@@ -13,7 +13,7 @@
     {
       "id": "olympustaff",
       "name": "Team-X (عربي)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://olympustaff.com/images/TeamX.png",
@@ -22,7 +22,7 @@
     {
       "id": "azorafly",
       "name": "AzoraFly (عربي)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://azorafly.com/favicon.ico",
@@ -31,7 +31,7 @@
     {
       "id": "manga-online",
       "name": "مانجا اون لاين (عربي)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "ar",
       "nsfw": false,
       "icon": "https://onma.me/favicon.ico",
@@ -40,7 +40,7 @@
     {
       "id": "mangapill",
       "name": "MangaPill (English)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "en",
       "nsfw": false,
       "icon": "https://mangapill.com/favicon.ico",
@@ -49,11 +49,20 @@
     {
       "id": "manganato",
       "name": "Manganato (English)",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "lang": "en",
       "nsfw": false,
       "icon": "https://www.manganato.gg/favicon.ico",
       "entry": "manganato.plugin.js"
+    },
+    {
+      "id": "comick-manga",
+      "name": "ComicK Manga (English)",
+      "version": "2.1.0",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://comick.live/favicon.ico",
+      "entry": "comick-manga.plugin.js"
     }
   ]
 }
